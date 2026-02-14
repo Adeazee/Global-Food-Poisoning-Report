@@ -109,9 +109,12 @@ Causative Pathogen
 ## Dashboards
 
 The project includes two interactive dashboards:
+<img width="1262" height="609" alt="Screenshot 2026-02-13 202153" src="https://github.com/user-attachments/assets/13622e95-46f7-440c-9230-817488d158c1" />
+<img width="1248" height="615" alt="Screenshot 2026-02-13 202227" src="https://github.com/user-attachments/assets/f100d328-e046-48f2-8a61-a2fbbe12313f" />
 
-<img width="1260" height="604" alt="Screenshot 2026-02-03 220338" src="https://github.com/user-attachments/assets/fd68a45f-2e90-4efd-abfe-b3d9fe113e74" />
-<img width="1241" height="593" alt="Screenshot 2026-02-03 220411" src="https://github.com/user-attachments/assets/6fa86021-c246-4ff6-ad7b-1310532266aa" />
+<img width="1256" height="621" alt="Screenshot 2026-02-13 202419" src="https://github.com/user-attachments/assets/35819eb1-259d-4d0c-904e-f954c409436f" />
+<img width="1249" height="602" alt="Screenshot 2026-02-13 202438" src="https://github.com/user-attachments/assets/8fca410f-4c6d-4080-baa0-0591c9d73fa5" />
+
 
 Dashboard 1: Food Poisoning Overview
 
